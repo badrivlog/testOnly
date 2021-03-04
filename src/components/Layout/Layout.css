@@ -1,0 +1,8 @@
+.Main {
+  display: flex;
+  flex-direction: column;
+}
+main {
+  margin: 0;
+  padding: 0;
+}
